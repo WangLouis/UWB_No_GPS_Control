@@ -1,0 +1,125 @@
+C:\C#2010\ch07\hello\bin\Debug\hello.exe
+C:\C#2010\ch07\hello\bin\Debug\hello.pdb
+C:\C#2010\ch07\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#2010\ch07\hello\obj\x86\Debug\hello.Form1.resources
+C:\C#2010\ch07\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\C#2010\ch07\hello\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#2010\ch07\hello\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#2010\ch07\hello\obj\x86\Debug\hello.exe
+C:\C#2010\ch07\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\C#\ch07\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Users\613A\Desktop\ch07\hello\obj\x86\Debug\hello.exe
+C:\Users\613A\Desktop\ch07\hello\obj\x86\Debug\hello.pdb
+C:\Users\613A\Desktop\ch07\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\613A\Desktop\ch07\hello\obj\x86\Debug\hello.Form1.resources
+C:\Users\613A\Desktop\ch07\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Users\613A\Desktop\ch07\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Users\613A\Desktop\ch07\hello\bin\Debug\hello.exe
+C:\Users\613A\Desktop\ch07\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\cmmm\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\cmmm1\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\電腦2012_04_08\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_04_30_3節點\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦2012_06_29\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_01\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\bin\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_19\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\obj\x86\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\obj\x86\Debug\hello.pdb
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\obj\x86\Debug\hello.Form1.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\bin\Debug\hello.exe
+C:\Documents and Settings\3140101-03\桌面\碩論資料2\碩論程式\電腦端2012_07_24\hello\bin\Debug\hello.pdb
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.exe
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.pdb
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\bin\Debug\hello.exe
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\bin\Debug\hello.pdb
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.Form1.resources
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.Properties.Resources.resources
+D:\碩士班程式碼\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+D:\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.exe
+D:\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.pdb
+D:\4_Computer____2012_07_24\hello\bin\Debug\hello.exe
+D:\4_Computer____2012_07_24\hello\bin\Debug\hello.pdb
+D:\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.csprojResolveAssemblyReference.cache
+D:\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.Form1.resources
+D:\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.Properties.Resources.resources
+D:\4_Computer____2012_07_24\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.exe
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.pdb
+I:\12_Computer____2012_07_24\hello\bin\Debug\hello.exe
+I:\12_Computer____2012_07_24\hello\bin\Debug\hello.pdb
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.Form1.resources
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.Properties.Resources.resources
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.csprojAssemblyReference.cache
+I:\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.exe
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.pdb
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\bin\Debug\hello.exe
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\bin\Debug\hello.pdb
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.Properties.Resources.resources
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\bin\Debug\hello.exe.config
+C:\Users\user\Desktop\12_Computer____2012_07_24\hello\obj\x86\Debug\hello.DroneData.resources
+C:\Users\user\Desktop\UWB開發\20180928_UWB_system\hello\bin\Debug\hello.exe.config
+C:\Users\user\Desktop\UWB開發\20180928_UWB_system\hello\obj\x86\Debug\hello.exe
+C:\Users\user\Desktop\UWB開發\20180928_UWB_system\hello\obj\x86\Debug\hello.pdb

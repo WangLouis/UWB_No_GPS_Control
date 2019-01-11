@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="hello">
+</Property><Property Name="方案檔" Value="D:\碩士班程式碼\4_Computer____2012_07_24\hello\hello.sln">
+</Property><Property Name="使用者選項檔" Value="D:\碩士班程式碼\4_Computer____2012_07_24\hello\hello.suo">
+</Property><Property Name="Date" Value="2015年4月2日">
+</Property><Property Name="Time" Value="上午 11:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="hello.sln" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\hello.sln">
+</Event><Event ErrorLevel="0" Project="" Source="hello.suo" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\hello.suo">
+</Event><Event ErrorLevel="0" Project="hello" Source="hello.csproj" Description="專案檔已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\hello.csproj">
+</Event><Event ErrorLevel="0" Project="hello" Source="hello.csproj.user" Description="專案使用者檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\hello.csproj.user">
+</Event><Event ErrorLevel="0" Project="hello" Source="Form1.cs" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="hello" Source="Form1.Designer.cs" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="hello" Source="Program.cs" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="hello" Source="Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="hello" Source="Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="hello" Source="Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="hello" Source="ClassDiagram1.cd" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="hello" Source="Properties\Settings.settings" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="hello" Source="Form1.resx" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="hello" Source="Properties\Resources.resx" Description="檔案已成功備份為 D:\碩士班程式碼\4_Computer____2012_07_24\hello\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="hello" Source="hello.csproj" Description="專案檔不需要轉換。">
+</Event><Event ErrorLevel="3" Project="hello" Source="hello.csproj" Description="不需要轉換">
+</Event><Event ErrorLevel="0" Project="" Source="hello.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="hello.sln" Description="Converted">
+</Event></UpgradeLog>
